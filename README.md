@@ -1,3 +1,3 @@
 # Hello_world
-The first class
+The first class\n
 an example of using github
